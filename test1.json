@@ -1,0 +1,12 @@
+{
+    "tire1": {
+        "source": [ "{{ 'PEP' | YYYYYYY | join }}" ],
+        "dest": [ "{{ Microservice.host }}" ],
+        "port": "555"
+    },
+    "tire6": {
+        "source": [ "{{ 'PEP' | LLLLLL | join }}" ],
+        "dest": [ "{{ Microservice.host2 }}" ],
+        "port": "555"
+    }
+}

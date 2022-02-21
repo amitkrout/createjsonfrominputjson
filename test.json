@@ -1,0 +1,48 @@
+{ 
+	"client": {
+		"name": "Jane Doe",
+		"phone": null,
+		"email": "janedoe@email.com"
+    },
+    "PEP": {
+        "cmpname": "info",
+        "tire2": {
+            "cmpname": "vendor",
+            "tire3": {
+                "compname": "test1",
+                "compname1": "test1"
+
+            },
+            "tire4": {
+                "compname": "test2",
+                "compname2": "test1"
+            },
+            "tire5": {
+                "compname": "test3",
+                "compname3": "test1"
+            }
+        }
+    },
+    "REP": {
+        "tire2": {
+            "cmpname": "vendor1",
+            "tire3": {
+                "compname": "test10",
+                "compname1": "test01"
+
+            },
+            "tire4": {
+                "compname": "test21",
+                "compname2": "test12"
+            },
+            "tire5": {
+                "compname": "test33",
+                "compname3": "test14"
+            }
+        }
+    },
+    "Microservice": {
+        "host": "ttttttttttttttttttttt",
+        "host2": "GGGGGGGGGGGGGGGGGGGGGGGG"
+    }
+}
