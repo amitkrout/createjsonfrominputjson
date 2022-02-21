@@ -17,5 +17,5 @@ Expected output
 }
 
 
-Input json - test1
-Value to find fromjson - test
+Input json - test1.json
+Value to find fromjson - test.json
