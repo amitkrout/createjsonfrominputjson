@@ -1,9 +1,4 @@
 { 
-	"client": {
-		"name": "Jane Doe",
-		"phone": null,
-		"email": "janedoe@email.com"
-    },
     "PEP": {
         "cmpname": "info",
         "tire2": {
